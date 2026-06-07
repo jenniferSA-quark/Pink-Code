@@ -4,7 +4,7 @@
 
 Este proyecto desarrolla un sistema de scoring de riesgo de churn para el canal tradicional de Arca Continental — las tienditas de abarrotes y misceláneas que representan el corazón de su operación comercial en México. A través de un pipeline de datos construido en Python y MongoDB, clasificamos a cada cliente en un semáforo de 4 niveles de riesgo (⚫ Inminente, 🔴 Alto, 🟡 Moderado, 🟢 Bajo) con base en su comportamiento de compra histórico, presencia de coolers y perfil comercial. El sistema permite al equipo de Arca actuar de forma proactiva antes de que una tiendita deje de comprar, atacando los **$12 millones MXN mensuales** que se pierden por churn.
 
-Desarrollado por el equipo **Pink Code** para el hackathon de Digital Nest — Arca Continental 2026.
+Desarrollado por el equipo **Pink Code** para el Hack4Her 2026.
 
 ---
 
