@@ -302,7 +302,7 @@ def consultas(uri, db_name):
         print(f"  {r['_id']:<15} | clientes: {r['total']:>8,} | en riesgo alto/inminente: {r['pct_riesgo']}%")
 
     # Resumen general
-    print("\n📊 Resumen final:")
+    print("\n Resumen final:")
     total = col.count_documents({})
     for nivel in ["Riesgo Inminente", "Riesgo Alto", "Riesgo Moderado", "Riesgo Bajo"]:
         n   = col.count_documents({"nivel_riesgo": nivel})
@@ -345,7 +345,7 @@ def main():
     # Consultas del reto
     consultas(MONGO, DB)
 
-    print("\n✅ Pipeline completado exitosamente.\n")
+    print("\n Pipeline completado exitosamente.\n")
 
 
 if __name__ == "__main__":
