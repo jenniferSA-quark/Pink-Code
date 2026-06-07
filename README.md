@@ -1,4 +1,4 @@
-# 🏪 Churn Hunter — Arca Continental
+# Churn Hunter — Pink Code
 
 ## Resumen
 
