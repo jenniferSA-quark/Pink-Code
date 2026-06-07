@@ -52,7 +52,7 @@ El proyecto utiliza 4 tablas de datos anonimizados reales de Arca Continental, c
 
 **Filtros aplicados a los datos:** Solo canal tradicional · Solo México · Desde 2024 · Productos: TCC, Monster, Jugos del Valle · Solo ventas válidas.
 
-> Los archivos de datos no están incluidos en este repositorio por razones de confidencialidad.
+
 
 ---
 
