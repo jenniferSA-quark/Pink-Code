@@ -1,4 +1,4 @@
-# Churn Hunter — Pink Code
+# Churn Hunters — Pink Code
 
 ## Resumen
 
