@@ -300,4 +300,4 @@ Pink-Code/
 
 ---
 
-👥 **Equipo Pink Code** · Hackathon Digital Nest — Arca Continental · 2026
+👥 **Equipo Pink Code** · Hack4Her — Arca Continental · 2026
