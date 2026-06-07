@@ -1,5 +1,5 @@
-# Proyecto: Churn Hunter - Arca Continental
-# Autora: Alondra
+# Proyecto: Churn Hunters - Arca Continental
+# Autor: Pink Code
 # Descripción: Sistema para identificar clientes en riesgo de dejar de comprar
 # Datos: ventas mensuales de tienditas del canal tradicional
 
@@ -12,7 +12,7 @@ from pymongo import MongoClient, UpdateOne
 from pymongo.errors import BulkWriteError
 import sys
 
-# --- Configuración ---
+# Configuración (conecxion con Mongo DB)
 MONGO = "mongodb://localhost:27017/"
 DB = "arca_churn"
 COLECCION = "clientes_scoring"
